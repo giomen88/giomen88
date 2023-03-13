@@ -16,3 +16,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lesssay&" alt="lesssay" /></p>
 
+<style>
+body {
+  background-color: black;
+  text-align: center;
+  }
+</style>
